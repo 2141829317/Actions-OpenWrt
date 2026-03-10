@@ -16,3 +16,5 @@
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+echo 'src-git ua2f https://github.com/Zxilly/UA2F.git' >> feeds.conf.default
+echo 'src-git mentohust https://github.com/BoringCat/luci-app-mentohust.git' >> feeds.conf.default
